@@ -1,3 +1,3 @@
-# vite-petite-vue-starter
+# vite-petite-vue-tailwind-starter
 
-Starter using Vite + Petite-vue for super fast prototyping
+Starter using Vite + Petite-vue + Tailwind for super fast prototyping
